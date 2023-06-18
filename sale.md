@@ -4,8 +4,8 @@ Welcome to our move out sale! Below is a catalog of the items available for sale
 
 ## Bed
 
-![Bed](./images/bed_image_1.jpg)
-![Bed](./images/bed_image_2.jpg)
+![Bed](images/bed_image_1.jpg.jpeg)
+![Bed](images/bed_image_2.jpg.jpeg)
 ![Bed](./images/bed_image_3.jpg)
 ![Bed](./images/bed_image_4.jpg)
 
